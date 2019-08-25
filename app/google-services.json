@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924878936411",
+    "firebase_url": "https://dosapp-be7c9.firebaseio.com",
+    "project_id": "dosapp-be7c9",
+    "storage_bucket": "dosapp-be7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924878936411:android:1d09dbf72a1a47bf",
+        "android_client_info": {
+          "package_name": "com.example.docconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924878936411-pkkcr7f1fu9ulh4smm4if9i8gmc4r30t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docconnect",
+            "certificate_hash": "c21f4361ef251276df34cac67545dc6f5508b05b"
+          }
+        },
+        {
+          "client_id": "924878936411-aad5bje1pvqtsk3a86go7qfc1v4eeaat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiTuEcYy1ITPqyGkogLlTwusJNgmhRKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924878936411-aad5bje1pvqtsk3a86go7qfc1v4eeaat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
